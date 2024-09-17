@@ -1,0 +1,11 @@
+# ninja log v6
+1	44	1726535330513597962	CMakeFiles/Array_Problem_4.dir/main.c.o	8887ee82cb298f4f
+44	59	1726535330557599765	Array_Problem_4	9cecf0e4b0ed2195
+1	43	1726535352458616996	CMakeFiles/Array_Problem_4.dir/main.c.o	8887ee82cb298f4f
+43	60	1726535352502619254	Array_Problem_4	9cecf0e4b0ed2195
+1	23	1726535402777588105	CMakeFiles/Array_Problem_4.dir/main.c.o	8887ee82cb298f4f
+23	44	1726535402801589664	Array_Problem_4	9cecf0e4b0ed2195
+1	46	1726535413942324275	CMakeFiles/Array_Problem_4.dir/main.c.o	8887ee82cb298f4f
+47	89	1726535413990327481	Array_Problem_4	9cecf0e4b0ed2195
+1	48	1726535460505314401	CMakeFiles/Array_Problem_4.dir/main.c.o	8887ee82cb298f4f
+48	63	1726535460553310031	Array_Problem_4	9cecf0e4b0ed2195
